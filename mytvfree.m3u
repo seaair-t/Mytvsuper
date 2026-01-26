@@ -3,55 +3,55 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0958b9c657622c465a6205eb2252b8ed&key=2d2fd7b1661b1e28de38268872b48480
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=9c28eda8e88d49fe6fecd7488691a19b&ext_start_limit=1769466356&int_start_limit=1769466356&ts=1769466356&c=850464580
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=7fb58610335e2df43d942b8c4a679e25&ext_start_limit=1769486494&int_start_limit=1769486494&ts=1769486494&c=850464580
 #EXTINF:-1 tvg-id="JUHD" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true",翡翠台 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2c045f5adb26d391cc41cd01f00416fa&key=fc146771a9b096fc4cb57ffe769861be
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=0229ff8265726ef51d92fd22eb29b9f0&ext_start_limit=1769466357&int_start_limit=1769466357&ts=1769466357&c=850464580
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=440540d93b15509a288bc1386954777c&ext_start_limit=1769486495&int_start_limit=1769486495&ts=1769486495&c=850464580
 #EXTINF:-1 tvg-id="B" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png",TVBplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=56603b65fa1d7383b6ef0e73b9ae69fa&key=5d9d8e957d2e45d8189a56fe8665aaaa
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=629b57f7aab3e8b4c080b3144af87b0d&ext_start_limit=1769466357&int_start_limit=1769466357&ts=1769466357&c=850464580
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=bc38f23c99e68f4c73bf394f3d253a17&ext_start_limit=1769486495&int_start_limit=1769486495&ts=1769486495&c=850464580
 #EXTINF:-1 tvg-id="P" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true",明珠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e04facdd91354deee318c674993b74c1&key=8f97a629de680af93a652c3102b65898
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=7578c7831075810bcb0bd34010500bf5&ext_start_limit=1769466357&int_start_limit=1769466357&ts=1769466357&c=850464580
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=2bde12d0008505417e03ef54f0a9c3d6&ext_start_limit=1769486496&int_start_limit=1769486496&ts=1769486496&c=850464580
 #EXTINF:-1 tvg-id="CWIN" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/黄金翡翠台.png",Super Free
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0737b75ee8906c00bb7bb8f666da72a0&key=15f515458cdb5107452f943a111cbe89
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=bec26dda9a515d87082f4fcafde22cd1&ext_start_limit=1769466358&int_start_limit=1769466358&ts=1769466358&c=850464580
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=bb4840418777e9b2624f0a2258a0714d&ext_start_limit=1769486496&int_start_limit=1769486496&ts=1769486496&c=850464580
 #EXTINF:-1 tvg-id="TVG" tvg-logo="https://github.com/sparkssssssssss/epg/blob/main/logo/%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0.png?raw=true",黄金翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8fe3db1a24969694ae3447f26473eb9f&key=5cce95833568b9e322f17c61387b306f
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=0c58d78642b3432e621b69b2d53499fa&ext_start_limit=1769466358&int_start_limit=1769466358&ts=1769466358&c=850464580
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=489a7a349dc53bee2497e6002d26c0db&ext_start_limit=1769486497&int_start_limit=1769486497&ts=1769486497&c=850464580
 #EXTINF:-1 tvg-id="C" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png",无线新闻台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90a0bd01d9f6cbb39839cd9b68fc26bc&key=51546d1f2af0547f0e961995b60a32a1
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=5db09e1b901bbf4d39d74fc17469d6c5&ext_start_limit=1769466358&int_start_limit=1769466358&ts=1769466358&c=850464580
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=123954d5bfd0d753a2b7521b7fd47183&ext_start_limit=1769486497&int_start_limit=1769486497&ts=1769486497&c=850464580
 #EXTINF:-1 tvg-id="CTVE" tvg-logo="https://github.com/sparkssssssssss/epg/blob/main/logo/%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png?raw=true",娱乐新闻台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6fa0e47750b5e2fb6adf9b9a0ac431a3&key=a256220e6c2beaa82f4ca5fba4ec1f95
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=adc951ef48f51ff2c37594a4aa8ae374&ext_start_limit=1769466359&int_start_limit=1769466359&ts=1769466359&c=850464580
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=fce71dc6a8f03058ed803619b30dd0d3&ext_start_limit=1769486497&int_start_limit=1769486497&ts=1769486497&c=850464580
 #EXTINF:-1 tvg-id="PCC" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png",凤凰卫视中文台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7bca0771ba9205edb5d467ce2fdf0162&key=eb19c7e3cea34dc90645e33f983b15ab
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=4fae0b99ff8df9ef8902c82e9029eaa1&ext_start_limit=1769466359&int_start_limit=1769466359&ts=1769466359&c=850464580
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=a5b4fb24719578fa350557b3e2307616&ext_start_limit=1769486498&int_start_limit=1769486498&ts=1769486498&c=850464580
 #EXTINF:-1 tvg-id="PIN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png",凤凰卫视资讯台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=83f7d313adfc0a5b978b9efa0421ce25&key=ecdc8065a46287bfb58e9f765e4eec2b
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=acccfaa785fa1621066021bf1f040912&ext_start_limit=1769466359&int_start_limit=1769466359&ts=1769466359&c=850464580
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=bcb58136a07c6418c452aa1b5224ca37&ext_start_limit=1769486498&int_start_limit=1769486498&ts=1769486498&c=850464580
 #EXTINF:-1 tvg-id="PHK" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png",凤凰卫视香港台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cde62e1056eb3615dab7a3efd83f5eb4&key=b8685fbecf772e64154630829cf330a3
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=fbc96b919e1c59d6a669e935041a0ea9&ext_start_limit=1769466360&int_start_limit=1769466360&ts=1769466360&c=850464580
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=48bff92989627ed452fdbbff7859b116&ext_start_limit=1769486499&int_start_limit=1769486499&ts=1769486499&c=850464580
 请求失败
